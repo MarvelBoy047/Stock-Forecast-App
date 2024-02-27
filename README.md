@@ -1,6 +1,3 @@
-Certainly! Here's a basic README.md template you can use for your GitHub repository:
-
-```
 # Stock Forecast App
 
 This is a Streamlit web application for predicting stock prices using various machine learning models.
