@@ -38,18 +38,3 @@ streamlit run main.py
 ```
 http://localhost:8501
 ```
-
-## Demo
-
-[Insert GIF or Screenshot here]
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-[MIT License](LICENSE)
-```
-
-Feel free to customize this template according to your project's specific details and requirements.
