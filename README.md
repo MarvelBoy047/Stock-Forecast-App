@@ -1,3 +1,6 @@
+Certainly! Here's a basic README.md template you can use for your GitHub repository:
+
+```
 # Stock Forecast App
 
 This is a Streamlit web application for predicting stock prices using various machine learning models.
@@ -19,3 +22,37 @@ This application allows users to select a stock ticker symbol, choose a machine 
 
 ```bash
 git clone https://github.com/yourusername/stock-forecast-app.git
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the application:
+
+```bash
+streamlit run main.py
+```
+
+4. Access the application in your browser:
+
+```
+http://localhost:8501
+```
+
+## Demo
+
+[Insert GIF or Screenshot here]
+
+## Contributors
+
+- [Your Name](https://github.com/yourusername)
+
+## License
+
+[MIT License](LICENSE)
+```
+
+Feel free to customize this template according to your project's specific details and requirements.
